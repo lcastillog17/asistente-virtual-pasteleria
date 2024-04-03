@@ -1,0 +1,30 @@
+Productos Destacados y Precios
+A continuación, se presenta una selección de nuestros productos más populares junto con sus precios y los ingredientes principales que los componen:
+
+Pasteles
+    - Pastel de Chocolate ($15.99): Harina de trigo, azúcar blanca, mantequilla, leche, chocolate negro.
+    - Pastel de Vainilla ($14.99): Harina de trigo, azúcar blanca, mantequilla, leche, esencia de vainilla.
+    - Pastel de Zanahoria ($16.99): Harina de trigo, azúcar blanca, mantequilla, huevos, zanahoria.
+
+Cupcakes
+    - Cupcake de Red Velvet ($3.50): Harina de trigo, azúcar blanca, mantequilla, leche, esencia de vainilla.
+    - Cupcake de Limón ($3.00): Harina de trigo, azúcar blanca, mantequilla, leche, limón.
+
+Galletas
+    - Galletas de Chocolate Chip ($5.99): Harina de trigo, azúcar blanca, mantequilla, chips de chocolate.
+    - Galletas de Avena ($6.50): Harina de avena, azúcar morena, mantequilla, pasas.
+
+Pan Dulce
+    - Conchas ($2.50): Harina de trigo, azúcar blanca, mantequilla, levadura.
+    - Croissant de Almendra ($4.50): Harina de trigo, mantequilla, almendras, azúcar blanca.
+
+Tartas
+    - Tarta de Frutas ($18.99): Harina de trigo, mantequilla, azúcar blanca, fresas (u otras frutas de temporada).
+    - Tarta de Queso ($20.00): Queso crema, azúcar blanca, base de galleta, crema de leche.
+
+Promociones Especiales
+    - Lanzamiento Chocolate: 20% de descuento en nuestro nuevo Pastel de Chocolate.
+    - Primavera de Cupcakes: Compra 4 cupcakes y obtén un 25% de descuento.
+    - Hora de la Galleta: 15% de descuento en galletas de chocolate chip después de las 5pm.
+    - Mañanas con Pan Dulce: Compra cualquier pan dulce y tu segunda pieza tiene un 50% de descuento.
+    - Fin de Semana de Tartas: Disfruta un 10% de descuento en nuestras tartas de frutas los fines de semana.
